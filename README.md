@@ -1,16 +1,26 @@
 # add_button_interaction
+<a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+</a>
 
-A new Flutter project.
+Switcher Widget inspired from [Oleg Frolov](https://dribbble.com/shots/6558740-Add-Button-Interaction).
 
-## Getting Started
+## Gif 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/DokkarRachidReda/Flutter-Add-Button-Interaction/blob/master/add_button.gif" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+## How to use it ? 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+inside the ``` lib ``` folder you will find AddButtonLayout.dart , it's the source of the widget 
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+the widget has 5 parameters
+
+* child : it's the widget which will be be displayed
+* row : to customize the row , it's a list of widget 
+* column : to customize the row , it's a list of widget 
+* color : for the color of the child widget
+* btnColor : the color of the add button
+
+
+## Contribution 
+feel free to contribute ...........
