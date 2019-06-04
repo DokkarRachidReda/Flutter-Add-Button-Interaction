@@ -15,9 +15,9 @@ inside the ``` lib ``` folder you will find AddButtonLayout.dart , it's the sour
 
 the widget has 5 parameters
 
-* child : it's the widget which will be be displayed
-* row : to customize the row , it's a list of widget 
-* column : to customize the row , it's a list of widget 
+* child : it's the widget which will be displayed
+* row : to customize the row , it's a list of widgets 
+* column : to customize the row , it's a list of widgets 
 * color : for the color of the child widget
 * btnColor : the color of the add button
 
